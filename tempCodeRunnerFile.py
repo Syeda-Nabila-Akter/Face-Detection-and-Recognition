@@ -1,0 +1,1 @@
+cv.imshow('Group 2', img)
