@@ -1,1 +1,1 @@
-cv.imshow('Group 2', img)
+haar_cascade_face.xml
